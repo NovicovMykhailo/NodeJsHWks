@@ -1,20 +1,22 @@
-# Получаем и выводим весь список контактов в виде таблицы (console.table)
-node index.js --action list
+# Скриншоти виконання команд cli застосунку
+## Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
+  node index.js --action list
 
-https://ibb.co/mBxzN8z
+![Alt-текст](https://ibb.co/mBxzN8z "Заголовок изображения")
 
-# Получаем контакт по id - выводим в консоль объект контакта или null, если контакта с таким id не существует.
-node index.js --action get --id 05olLMgyVQdWRwgKfg5J6
+
+## Отримуємо контакт за id - виводимо в консоль об'єкт контакту або null, якщо контакту з таким id не існує.
+  node index.js --action get --id 05olLMgyVQdWRwgKfg5J6
 
 https://ibb.co/xHfGkFg
 
-# Добавляем контакт и выводим в консоль созданный контакт
-node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
+## Додаємо контакт і виводимо в консоль створений контакт
+  node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
 
 https://ibb.co/FnRhvCk
 
-# Удаляем контакт и выводим в консоль удаленный контакт или null, если контакта с таким id не существует.
-node index.js --action remove --id qdggE76Jtbfd9eWJHrssH
+## Видаляємо контакт і виводимо в консоль видалений контакт або null, якщо контакту з таким id не існує.
+  node index.js --action remove --id qdggE76Jtbfd9eWJHrssH
 
 https://ibb.co/y06dp36
 
