@@ -17,7 +17,7 @@
 ## Додаємо контакт і виводимо в консоль створений контакт
   ```node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22```
 
-![screenshot-action-add](https://i.ibb.co/yVHNT7m/03-action-add.jpg)
+
 
 [Link to photo](https://ibb.co/FnRhvCk)
 
