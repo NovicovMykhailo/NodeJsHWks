@@ -2,7 +2,7 @@
 ## Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
   ```node index.js --action list```
 
-![photo-example](https://ibb.co/mBxzN8z)
+![photo-example](https://i.ibb.co/W3TKVtK/01-action-list.jpg)
 
 
 ## Отримуємо контакт за id - виводимо в консоль об'єкт контакту або null, якщо контакту з таким id не існує.
